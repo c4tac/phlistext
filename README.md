@@ -33,3 +33,5 @@ https://gist.githubusercontent.com/hkamran80/779019103fcd306979411d44c8d38459/ra
 	
 	
 https://raw.githubusercontent.com/danhorton7/pihole-block-tiktok/534b0d3027c75ab14099ac704d5bdb4fd95b5816/tiktok.txt
+
+https://raw.githubusercontent.com/danhorton7/pihole-block-tiktok/main/tiktok.txt
